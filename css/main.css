@@ -1,0 +1,19 @@
+* {
+	margin:0;
+	padding: 0;
+}
+.navbar-brand {
+	margin-left: 5px;
+	padding:0;
+}
+
+.container-fluid {
+	padding-left: 0;
+}
+.banner-spa {
+	background-image: url(../img/banner.jpg);
+	background-size: 1358px 600px;
+	height: 600px;
+	background-repeat: no-repeat;
+	padding-left: 0;
+}
